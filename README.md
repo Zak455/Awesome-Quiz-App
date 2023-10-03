@@ -1,4 +1,4 @@
-# Awesome-Quiz-App
+# Awesome-Quiz-App-With-Timer
 
 I created this awesome quiz application using HTML, CSS, and JavaScript to challenge and entertain users. Here's a breakdown of how I put it all together:
 
